@@ -6,7 +6,11 @@
 	Handcrafted by JAVIER SOSA
 
 	Last updated on 07.17.2023
-	================================================
+  
+  <=============================================>
+  >>> > > > > > THE ORANGE MACHINE < < < < < <<<
+  <=============================================>
+  
 	*/
 /*RESET*/
 html, body, div, span, applet, object, iframe,
@@ -86,7 +90,7 @@ h3 {
   font-size: 2em; }
 
 a:active, a:focus, a:hover, a:link, a:visited {
-  color: #FFC715;
+  color: #ff158a;
   cursor: pointer;
   text-decoration: none; }
 
@@ -111,7 +115,7 @@ header {
   top: 112px;
   width: 100%; }
   header h1 {
-    color: #F24408;
+    color: #739e05;
     font-family: "skolar-sans-latin", sans-serif;
     font-weight: 700;
     font-size: 4.5em;
@@ -205,12 +209,12 @@ header:before {
   z-index: -1; }
 
 .main {
-  background: #F24408;
-  background: -webkit- linear-gradient(#FF9B22, #F24408 12%, #FF9B22);
-  background: -moz- linear-gradient(#FF9B22, #F24408 12%, #FF9B22);
-  background: -ms- linear-gradient(#FF9B22, #F24408 12%, #FF9B22);
-  background: -o- linear-gradient(#FF9B22, #F24408 12%, #FF9B22);
-  background: linear-gradient(#FF9B22, #F24408 12%, #FF9B22);
+  background: #739e05;
+  background: -webkit- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
+  background: -moz- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
+  background: -ms- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
+  background: -o- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
+  background: linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
   margin-top: 10em;
   position: relative; }
   .main h3 {
@@ -376,7 +380,7 @@ header:before {
   margin-top: 240px; }
 
 footer {
-  background: #F24408;
+  background: #739e05;
   bottom: 0;
   margin: 0 auto;
   padding: 1.5em 5em;
@@ -440,21 +444,21 @@ footer {
     list-style-position: outside; }
   .sidebar li {
     box-sizing: border-box;
-    color: #F90422;
+    color: #0c04f9;
     font-size: .75em;
     padding: .25em; }
   .sidebar li a:link {
-    color: #F90422; }
+    color: #0c04f9; }
   .sidebar li:before {
     content: "\f04e";
     font-family: "fontawesome";
-    color: #F90422;
+    color: #0c04f9;
     font-size: .7em;
     padding-right: 4px; }
   .sidebar li:hover:before, .sidebar li:hover a, .sidebar li a:visited {
     color: #FF9B22; }
   .sidebar h3 {
-    color: #F90422;
+    color: #0c04f9;
     font-size: 1.5em;
     font-weight: 700;
     padding: .45em;
