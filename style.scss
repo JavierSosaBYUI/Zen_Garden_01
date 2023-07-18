@@ -125,11 +125,11 @@ $background1:url('triangle.svg');
 $background2:url('triangle2.svg');
 // 
 
-// COLORS
-$color1: #FF9B22; /*Orange*/
-$color2: #739e05; /*Red*/
-$color3: #d0ff15; /*Yellow*/
-$color4: #0c04f9; /*DkRed*/
+// DIE COLORS
+$color1: rgb(255, 155, 34); /*Orange*/
+$color2: rgb(115, 158, 5); /*green*/
+$color3: rgb(208, 255, 21); /*lemon*/
+$color4: rgb(12, 4, 249); /*Dkblue*/
 
 $primary-text-color: white;
 $heading-text-color1: $color2;
@@ -137,13 +137,13 @@ $heading-text-color2: $color3;
 $link-text-color: $color3;
 // 
 
-// GRADIENTS
+// LOS GRADIENTS
 $gradient1: linear-gradient($color1, $color2 12%, $color1);
 //
 
 //
 
-// FONTS
+// THE FONTS
 $primary-font: "eskorte-latin",sans-serif;
 $secondary-font: "skolar-sans-latin",sans-serif;
 // 
@@ -163,7 +163,7 @@ $secondary-font: "skolar-sans-latin",sans-serif;
   font-size: $size;
 }
 
-// FONTS
+// THE FONTS
 $icon-font-name: 'fontawesome';
 $icon-font-filename: 'fontawesome-webfont';
 

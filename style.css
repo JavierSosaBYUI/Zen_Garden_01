@@ -57,15 +57,15 @@ table {
   border-spacing: 0; }
 
 /*Orange*/
-/*Red*/
-/*Yellow*/
-/*DkRed*/
+/*green*/
+/*lemon*/
+/*Dkblue*/
 @font-face {
   font-family: "fontawesome";
   src: url("fontawesome-webfont.eot");
   src: local("☺︎"), url("fontawesome-webfont.eot?iefix") format("eot"), url("fontawesome-webfont.woff") format("woff"), url("fontawesome-webfont.otf") format("opentype"), url("fontawesome-webfont.ttf") format("truetype"), url("fontawesome-webfont.svg#fontawesome") format("svg"); }
 html {
-  background: #FF9B22;
+  background: #ff9b22;
   color: white; }
 
 body {
@@ -210,11 +210,11 @@ header:before {
 
 .main {
   background: #739e05;
-  background: -webkit- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
-  background: -moz- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
-  background: -ms- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
-  background: -o- linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
-  background: linear-gradient(#FF9B22, #739e05 12%, #FF9B22);
+  background: -webkit- linear-gradient(#ff9b22, #739e05 12%, #ff9b22);
+  background: -moz- linear-gradient(#ff9b22, #739e05 12%, #ff9b22);
+  background: -ms- linear-gradient(#ff9b22, #739e05 12%, #ff9b22);
+  background: -o- linear-gradient(#ff9b22, #739e05 12%, #ff9b22);
+  background: linear-gradient(#ff9b22, #739e05 12%, #ff9b22);
   margin-top: 10em;
   position: relative; }
   .main h3 {
@@ -456,7 +456,7 @@ footer {
     font-size: .7em;
     padding-right: 4px; }
   .sidebar li:hover:before, .sidebar li:hover a, .sidebar li a:visited {
-    color: #FF9B22; }
+    color: #ff9b22; }
   .sidebar h3 {
     color: #0c04f9;
     font-size: 1.5em;
